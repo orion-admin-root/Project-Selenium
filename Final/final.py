@@ -45,8 +45,8 @@ while (dircount < ndir):
     password = browser.find_element_by_name("tl_password")
 
     #Credentials
-    username.send_keys("sahjenkins")
-    password.send_keys("sahjenkins")
+    username.send_keys("your_username")
+    password.send_keys("your_password")
     browser.find_element_by_name("login_submit").click()
 
     #Exporting XML file of Test Suite from TestLink
