@@ -1,4 +1,4 @@
-# stunning-octo-enigma
+# Project Selenium
 Project Selenium is an automation type project. The goal was to create a script that would automate the download, modification of an XML file, and re-upload from and to TestLink, the Test Case platform used by Product Validation Companies. To achieve this, Selenium Webdriver Python API was used to automate the Download and Upload of the XML file, and Python was used to find and replace the information needed.
 
 #Reading configfile
